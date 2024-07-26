@@ -1,0 +1,46 @@
+/* body {
+    background-color: black;
+    font-family: "Playwrite BE VLG", cursive;
+  }
+  h1 {
+    color: aqua;
+  }
+  p {
+    color: azure;
+  }
+  h2 {
+    color: red;
+  }
+   */
+   /* body{
+    font-family: "Teachers", sans-serif;
+   }
+   h1{
+   text-align: center;
+    margin: 250px;
+   } */
+    .box{
+        border: 1px solid black;
+        height: 200px;
+        width: 200px;
+        box-sizing: border-box; 
+    }
+    .red{
+        background-color: red;
+        margin-bottom: 20px;
+        margin-left: 10px;
+    }
+    h4{
+        padding: 20, 20, 20, 20;
+    }
+    .yellow{
+        background-color: yellow;
+        margin-top: 20px;
+        margin-left: 10px;
+        background-image: url("https://res.klook.com/image/upload/c_fill,w_1265,h_712/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/tsah7c9evnal289z5fig.webp");
+        background-size: cover;
+    }
+    .yellow button{
+        background-color: black;
+        color: white;
+    }
